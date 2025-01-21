@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Like classical architecture, technical architecture is both an art and a science.
   We explain best practices, patterns, and principles for designing elegant, performant, and maintainable software systems.
   Because the best technical architecture is both beautiful and functional.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/taasota" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
